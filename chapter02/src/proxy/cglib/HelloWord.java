@@ -1,4 +1,4 @@
-package proxy;
+package proxy.cglib;
 
 /**
  * JDK动态代理必须借助接口才能产生代理对象

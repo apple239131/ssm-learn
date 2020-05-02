@@ -1,4 +1,4 @@
-package proxy;
+package proxy.cglib;
 
 /**
  * 接口实现类

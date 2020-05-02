@@ -1,4 +1,4 @@
-package proxy;
+package proxy.cglib;
 
 public class ProxyTest {
     public static void main(String[] args) {
